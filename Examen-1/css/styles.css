@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background:url(../img/blurry.jpg) center cover no-repeat;
+}
+
+
+html, body{
+    height: 100%;
+}
+
+body {
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.first{
+    margin-top:80px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+}
+
+main {
+    flex: 1 0 auto;
+    background: url(../img/blurry.jpg) center no-repeat
+}

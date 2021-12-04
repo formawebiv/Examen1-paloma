@@ -4,3 +4,6 @@
 - Búsqueda de texto para contenido de la página e imagen que se ajuste bien a las dimensiones, de tal manera que no afecte la responsividad
 - Múltiples problemas de conexión para realizar esta prueba
 - Reinicio de pantalla 
+
+
+:) Tes un perfil de Github moi ordeadiño. Noraboa!
